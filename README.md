@@ -7,7 +7,7 @@
 ## Education
 
 
-## Publications
+## Work
 
 
 ## Fun
