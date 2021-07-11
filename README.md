@@ -4,10 +4,7 @@ I am a third year PhD student in the [Center for Applied Mathematics](https://ww
 ## Research interests
 
 
-## Education
+## Publications
 
 
-## Work
-
-
-## Fun
+## Other
