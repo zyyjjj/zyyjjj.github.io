@@ -33,5 +33,4 @@ Since May 2020, we have used mathematical modeling and simulation to support the
 
 ## Other
 
-* My attempt at translating Karl Weierstrass' 1885 paper <a href="files/Weierstrass_Translation.pdf" target="_blank">Über die analytische Darstellbarkeit sogenannter willkürlicher Functionen einer reellen Veränderlichen</a> to English.
-
+* My attempt at translating Karl Weierstrass' 1885 paper [Über die analytische Darstellbarkeit sogenannter willkürlicher Functionen einer reellen Veränderlichen](https://www.cambridge.org/core/books/mathematische-werke/uber-die-analytische-darstellbarkeit-sogenannter-willkurlicher-functionen-reeller-argumente/8C407E36F74E4257BF4A9A19CA661B93) to <a href="files/Weierstrass_Translation.pdf" target="_blank">English</a>.
