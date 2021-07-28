@@ -5,6 +5,10 @@ I am interested in sequential decision-making problems under uncertainty. I work
 
 In my free time, I enjoy cooking, playing the piano, and walking around in the gorges of Ithaca.
 
+Curriculum Vitae.
+<a href="zyyjjje.github.io/files/YujiaZhang_CV_07282021_GitHubPages.pdf" target="_blank">PDF.</a>
+
+
 
 ## Publications
 * P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, B. Liu, D.B. Shmoys, J. Wan, Y. Zhang, “Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study”. Submitted to Proceedings of the National Academy of Sciences.
