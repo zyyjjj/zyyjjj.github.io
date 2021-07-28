@@ -31,3 +31,7 @@ Since May 2020, we have used mathematical modeling and simulation to support the
 * Laurence Kotlikoff, “Drs. Fauci & Birx: Here’s A Way To Contain Covid-19 And Reopen The Economy In As Little As One Month”, Forbes, May 3, 2020 [Link](https://www.forbes.com/sites/kotlikoff/2020/05/03/dr-fauci-heres-a-way-to-contain-covid-19-and-reopen-the-economy-in-as-little-as-one-month/?sh=73b664bc1c7a).
 
 
+## Other
+
+* My attempt at translating Karl Weierstrass' 1885 paper <a href="files/Weierstrass_Translation.pdf" target="_blank">Über die analytische Darstellbarkeit sogenannter willkürlicher Functionen einer reellen Veränderlichen</a> to English.
+
