@@ -3,7 +3,7 @@ I am a third year PhD student in the [Center for Applied Mathematics](https://ww
 
 I am interested in sequential decision-making problems under uncertainty. I work on problems in reinforcement learning and Bayesian optimization. I am also part of the [Cornell COVID-19 modeling team](https://datasciencecenter.cornell.edu/research/covid-19-mathematical-modeling-for-cornells-fall-semester/).
 
-In my free time, I enjoy cooking, playing the piano, and walking around in the gorges of Ithaca.
+In my free time, I enjoy cooking, playing the piano, and walking around the gorges of Ithaca.
 
 <a href="files/YujiaZhang_CV_07282021_GitHubPages.pdf" target="_blank">Curriculum Vitae.</a>
 
