@@ -25,12 +25,12 @@ Cornell successfully conducted in-person instruction in the 2020-21 academic yea
 * The full collection of COVID-19 modeling reports can be found [here](https://covid.cornell.edu/testing/modeling/).
 
 ### Press Coverage:
-* “Containing COVID-19 at Cornell”, Syl Kacapyr, Cornell Engineering Spotlights, 2021 [Link](https://www.engineering.cornell.edu/spotlights/containing-covid-19-cornell).
-* “Cornell University gives exclusive look at how it has contained COVID-19” Kaitlyn Folmer, Good Morning America, September 22, 2020 [Link](https://abcnews.go.com/GMA/Wellness/video/cornell-university-exclusive-contained-covid-19-73163035).
-*	“Why Cornell Will Reopen in the Fall”, Michael I. Kotlikoff and Martha E. Pollack, Wall Street Journal, June 30, 2020 [Link](https://www.wsj.com/articles/why-cornell-will-reopen-in-the-fall-11593535516).
-* “Group testing could screen entire US, research suggests”, Melanie Lefkowitz, Cornell Chronicle, June 11, 2020 [Link](https://news.cornell.edu/stories/2020/06/group-testing-could-screen-entire-us-research-suggests).
-* “With all eyes on coronavirus testing, some researchers say ’group testing’ could make up the shortage”, Dr. Mark Abdelmalek, ABC News, May 13, 2020 [Link](https://abcnews.go.com/Health/eyes-coronavirus-testing-researchers-group-testing-make-shortage/story?id=70658896).
-* “Drs. Fauci & Birx: Here’s A Way To Contain Covid-19 And Reopen The Economy In As Little As One Month”, Laurence Kotlikoff, Forbes, May 3, 2020 [Link](https://www.forbes.com/sites/kotlikoff/2020/05/03/dr-fauci-heres-a-way-to-contain-covid-19-and-reopen-the-economy-in-as-little-as-one-month/?sh=73b664bc1c7a).
+* “Containing COVID-19 at Cornell”, Syl Kacapyr, *Cornell Engineering Spotlights*, 2021 [Link](https://www.engineering.cornell.edu/spotlights/containing-covid-19-cornell).
+* “Cornell University gives exclusive look at how it has contained COVID-19” Kaitlyn Folmer, *Good Morning America*, September 22, 2020 [Link](https://abcnews.go.com/GMA/Wellness/video/cornell-university-exclusive-contained-covid-19-73163035).
+*	“Why Cornell Will Reopen in the Fall”, Michael I. Kotlikoff and Martha E. Pollack, *Wall Street Journal*, June 30, 2020 [Link](https://www.wsj.com/articles/why-cornell-will-reopen-in-the-fall-11593535516).
+* “Group testing could screen entire US, research suggests”, Melanie Lefkowitz, *Cornell Chronicle*, June 11, 2020 [Link](https://news.cornell.edu/stories/2020/06/group-testing-could-screen-entire-us-research-suggests).
+* “With all eyes on coronavirus testing, some researchers say ’group testing’ could make up the shortage”, Dr. Mark Abdelmalek, *ABC News*, May 13, 2020 [Link](https://abcnews.go.com/Health/eyes-coronavirus-testing-researchers-group-testing-make-shortage/story?id=70658896).
+* “Drs. Fauci & Birx: Here’s A Way To Contain Covid-19 And Reopen The Economy In As Little As One Month”, Laurence Kotlikoff, *Forbes*, May 3, 2020 [Link](https://www.forbes.com/sites/kotlikoff/2020/05/03/dr-fauci-heres-a-way-to-contain-covid-19-and-reopen-the-economy-in-as-little-as-one-month/?sh=73b664bc1c7a).
 
 
 ## Fun
