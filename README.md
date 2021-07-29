@@ -10,8 +10,8 @@ In my free time, I enjoy cooking, playing the piano, and walking around the gorg
 
 
 ## Publications
-* P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, B. Liu, D.B. Shmoys, J. Wan, Y. Zhang, “Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study” [Link](https://bibbase.org/network/publication/frazier-cashore-duan-henderson-janmohamed-liu-shmoys-wan-etal-modelingforcovid19collegereopeningdecisionscornellacasestudy-2021). Submitted to Proceedings of the National Academy of Sciences.
-* Y. Lin, Y. Ren, J. Wan, J.M. Cashore, J. Wan, Y. Zhang, P.I. Frazier, E. Zhou, “Group Testing Enables Asymptomatic Screening for COVID-19 Mitigation: Feasibility and Optimal Pool Size Selection with Dilution Effects” [Link](https://arxiv.org/pdf/2008.06642.pdf). Submitted to Health Care Management Science.
+* P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, B. Liu, D.B. Shmoys, J. Wan, Y. Zhang, “Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study” [Link](https://bibbase.org/network/publication/frazier-cashore-duan-henderson-janmohamed-liu-shmoys-wan-etal-modelingforcovid19collegereopeningdecisionscornellacasestudy-2021). Submitted to *Proceedings of the National Academy of Sciences*.
+* Y. Lin, Y. Ren, J. Wan, J.M. Cashore, J. Wan, Y. Zhang, P.I. Frazier, E. Zhou, “Group Testing Enables Asymptomatic Screening for COVID-19 Mitigation: Feasibility and Optimal Pool Size Selection with Dilution Effects” [Link](https://arxiv.org/pdf/2008.06642.pdf). Submitted to *Health Care Management Science*.
 * Y. Zhang, K. Song, Y. Sun, S. Tan, M. Udell, “‘Why Should You Trust My Explanation?’ Understanding Uncertainty in LIME Explanations” [Link](https://arxiv.org/abs/1904.12991). ICML 2019 Workshop on AI for Social Good. 
 * A. Ruch, Y. Zhang, M. Macy, “Facebook Interests and the Lifestyles that Divide and Bridge Us”. Working paper.
 * J. Wan, Y. Zhang, P.I. Frazier, “Correlation Increases Group Testing’s Sensitivity”. Working paper.
