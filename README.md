@@ -1,7 +1,7 @@
 ## About
 I am a third year PhD student in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) at Cornell University, where I am fortunate to be advised by [Prof. Peter Frazier](https://people.orie.cornell.edu/pfrazier/) in the Operations Research and Information Engineering department. Previously, I received my B.A. in Mathematics (magna cum laude) and German Studies at Cornell University.
 
-I am interested in sequential decision-making problems under uncertainty. I work on problems in reinforcement learning and Bayesian optimization. I am also part of the [Cornell COVID-19 modeling team](https://datasciencecenter.cornell.edu/research/covid-19-mathematical-modeling-for-cornells-fall-semester/).
+I am interested in sequential decision-making problems under uncertainty and in dynamic environments. I work on problems in reinforcement learning and Bayesian optimization. I am also part of the [Cornell COVID-19 modeling team](https://datasciencecenter.cornell.edu/research/covid-19-mathematical-modeling-for-cornells-fall-semester/).
 
 In my free time, I enjoy cooking, playing the piano, and walking around the gorges of Ithaca.
 
