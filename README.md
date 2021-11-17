@@ -5,7 +5,7 @@ I am interested in sequential decision-making problems under uncertainty and in 
 
 In my free time, I enjoy cooking, playing the piano, and walking around the gorges of Ithaca.
 
-<a href="files/YujiaZhang_CV_07302021.pdf" target="_blank">Curriculum Vitae.</a>
+<a href="files/YujiaZhang_CV_running.pdf" target="_blank">Curriculum Vitae.</a>
 
 
 
