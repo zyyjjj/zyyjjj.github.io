@@ -10,7 +10,7 @@ In my free time, I enjoy cooking, playing the piano, and walking around the gorg
 
 
 ## Publications
-* P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, B. Liu, D.B. Shmoys, J. Wan, Y. Zhang, “Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study” [Link](https://bibbase.org/network/publication/frazier-cashore-duan-henderson-janmohamed-liu-shmoys-wan-etal-modelingforcovid19collegereopeningdecisionscornellacasestudy-2021). To appear in *Proceedings of the National Academy of Sciences*.
+* P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, B. Liu, D.B. Shmoys, J. Wan, Y. Zhang, “Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study” [Link](https://www.pnas.org/content/119/2/e2112532119). *Proceedings of the National Academy of Sciences*.
 * J. Wan, Y. Zhang, P.I. Frazier, “Correlation Improves Group Testing” [Link](https://arxiv.org/abs/2111.07517).
 * Y. Lin, Y. Ren, J. Wan, J.M. Cashore, J. Wan, Y. Zhang, P.I. Frazier, E. Zhou, “Group Testing Enables Asymptomatic Screening for COVID-19 Mitigation: Feasibility and Optimal Pool Size Selection with Dilution Effects” [Link](https://arxiv.org/pdf/2008.06642.pdf). Submitted to *Health Care Management Science*.
 * Y. Zhang, K. Song, Y. Sun, S. Tan, M. Udell, “‘Why Should You Trust My Explanation?’ Understanding Uncertainty in LIME Explanations” [Link](https://arxiv.org/abs/1904.12991). ICML 2019 Workshop on AI for Social Good. 
