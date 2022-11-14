@@ -11,9 +11,9 @@ In my free time, I enjoy cooking, hiking, and playing the piano.
 
 ## Publications
 * Y. Zhang, J. Markovic, J. Lin, Q. Feng, P. I. Frazier, E. Bakshy, “Preference Exploration in Low-rank Subspace for Bayesian Optimization with Many Outcomes”. Submitted.
-* P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, B. Liu, D.B. Shmoys, J. Wan, Y. Zhang, “Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study” [Link](https://www.pnas.org/content/119/2/e2112532119). *Proceedings of the National Academy of Sciences*.
-* J. Wan, Y. Zhang, P.I. Frazier, “Correlation Improves Group Testing” [Link](https://arxiv.org/abs/2111.07517).
-* Y. Lin, Y. Ren, J. Wan, J.M. Cashore, J. Wan, Y. Zhang, P.I. Frazier, E. Zhou, “Group Testing Enables Asymptomatic Screening for COVID-19 Mitigation: Feasibility and Optimal Pool Size Selection with Dilution Effects” [Link](https://arxiv.org/pdf/2008.06642.pdf).
+* P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, B. Liu, D.B. Shmoys, J. Wan, Y. Zhang, “Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study” ([Link])(https://www.pnas.org/content/119/2/e2112532119). *Proceedings of the National Academy of Sciences*.
+* J. Wan, Y. Zhang, P.I. Frazier, “Correlation Improves Group Testing” ([Link])(https://arxiv.org/abs/2111.07517).
+* Y. Lin, Y. Ren, J. Wan, J.M. Cashore, J. Wan, Y. Zhang, P.I. Frazier, E. Zhou, “Group Testing Enables Asymptomatic Screening for COVID-19 Mitigation: Feasibility and Optimal Pool Size Selection with Dilution Effects” ([Link])(https://arxiv.org/pdf/2008.06642.pdf).
 * Y. Zhang, K. Song, Y. Sun, S. Tan, M. Udell, “‘Why Should You Trust My Explanation?’ Understanding Uncertainty in LIME Explanations” [Link](https://arxiv.org/abs/1904.12991). ICML 2019 Workshop on AI for Social Good. 
 * A. Ruch, Y. Zhang, M. Macy, “Facebook Interests and the Lifestyles that Divide and Bridge Us” [Link](https://drive.google.com/file/d/1tSqmMV2wQiMn8k65RioXay5LY49fAEJQ/view).
 
