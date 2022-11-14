@@ -11,11 +11,11 @@ In my free time, I enjoy cooking, hiking, and playing the piano.
 
 ## Publications
 * Y. Zhang, J. Markovic, J. Lin, Q. Feng, P. I. Frazier, E. Bakshy, “Preference Exploration in Low-rank Subspace for Bayesian Optimization with Many Outcomes”. Submitted.
-* P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, B. Liu, D.B. Shmoys, J. Wan, Y. Zhang, “Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study” ([Link])(https://www.pnas.org/content/119/2/e2112532119). *Proceedings of the National Academy of Sciences*.
-* J. Wan, Y. Zhang, P.I. Frazier, “Correlation Improves Group Testing” ([Link])(https://arxiv.org/abs/2111.07517).
-* Y. Lin, Y. Ren, J. Wan, J.M. Cashore, J. Wan, Y. Zhang, P.I. Frazier, E. Zhou, “Group Testing Enables Asymptomatic Screening for COVID-19 Mitigation: Feasibility and Optimal Pool Size Selection with Dilution Effects” ([Link])(https://arxiv.org/pdf/2008.06642.pdf).
-* Y. Zhang, K. Song, Y. Sun, S. Tan, M. Udell, “‘Why Should You Trust My Explanation?’ Understanding Uncertainty in LIME Explanations” [Link](https://arxiv.org/abs/1904.12991). ICML 2019 Workshop on AI for Social Good. 
-* A. Ruch, Y. Zhang, M. Macy, “Facebook Interests and the Lifestyles that Divide and Bridge Us” [Link](https://drive.google.com/file/d/1tSqmMV2wQiMn8k65RioXay5LY49fAEJQ/view).
+* P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, B. Liu, D.B. Shmoys, J. Wan, Y. Zhang, “Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study” ([Link](https://www.pnas.org/content/119/2/e2112532119)). *Proceedings of the National Academy of Sciences*.
+* J. Wan, Y. Zhang, P.I. Frazier, “Correlation Improves Group Testing” ([Link](https://arxiv.org/abs/2111.07517)).
+* Y. Lin, Y. Ren, J. Wan, J.M. Cashore, J. Wan, Y. Zhang, P.I. Frazier, E. Zhou, “Group Testing Enables Asymptomatic Screening for COVID-19 Mitigation: Feasibility and Optimal Pool Size Selection with Dilution Effects” ([Link](https://arxiv.org/pdf/2008.06642.pdf)).
+* Y. Zhang, K. Song, Y. Sun, S. Tan, M. Udell, “‘Why Should You Trust My Explanation?’ Understanding Uncertainty in LIME Explanations” ([Link](https://arxiv.org/abs/1904.12991)). ICML 2019 Workshop on AI for Social Good. 
+* A. Ruch, Y. Zhang, M. Macy, “Facebook Interests and the Lifestyles that Divide and Bridge Us” ([Link](https://drive.google.com/file/d/1tSqmMV2wQiMn8k65RioXay5LY49fAEJQ/view)).
 
 
 ## COVID-19 Modeling Work
@@ -23,16 +23,16 @@ Cornell successfully conducted in-person instruction in the 2020-21 academic yea
 
 ### Reports: 
 * P.I. Frazier, Y. Zhang, J.M. Cashore, “Feasibility of COVID-19 Screening for the U.S. Population with Group Testing” [Link](https://docs.google.com/document/d/1hw5K5V7XOug_r6CQ0UYt25szQxXFPmZmFhK15ZpH5U0/edit#heading=h.1bjgrg7lbia7).
-* P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, D.B. Shmoys, J. Wan, Y. Zhang, “COVID-19 Mathematical Modeling for Cornell’s Fall Semester” [Link](https://covid.cornell.edu/_assets/files/covid_19_modeling_main_report.pdf).
-* The full collection of COVID-19 modeling reports can be found [here](https://covid.cornell.edu/testing/modeling/).
+* P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, D.B. Shmoys, J. Wan, Y. Zhang, “COVID-19 Mathematical Modeling for Cornell’s Fall Semester” ([Link](https://covid.cornell.edu/_assets/files/covid_19_modeling_main_report.pdf)).
+* The full collection of COVID-19 modeling reports can be found ([here](https://covid.cornell.edu/testing/modeling/)).
 
 ### Press Coverage:
-* “Containing COVID-19 at Cornell”, Syl Kacapyr, *Cornell Engineering Spotlights*, 2021 [Link](https://www.engineering.cornell.edu/spotlights/containing-covid-19-cornell).
-* “Cornell University gives exclusive look at how it has contained COVID-19” Kaitlyn Folmer, *Good Morning America*, September 22, 2020 [Link](https://abcnews.go.com/GMA/Wellness/video/cornell-university-exclusive-contained-covid-19-73163035).
-*	“Why Cornell Will Reopen in the Fall”, Michael I. Kotlikoff and Martha E. Pollack, *Wall Street Journal*, June 30, 2020 [Link](https://www.wsj.com/articles/why-cornell-will-reopen-in-the-fall-11593535516).
-* “Group testing could screen entire US, research suggests”, Melanie Lefkowitz, *Cornell Chronicle*, June 11, 2020 [Link](https://news.cornell.edu/stories/2020/06/group-testing-could-screen-entire-us-research-suggests).
-* “With all eyes on coronavirus testing, some researchers say ’group testing’ could make up the shortage”, Dr. Mark Abdelmalek, *ABC News*, May 13, 2020 [Link](https://abcnews.go.com/Health/eyes-coronavirus-testing-researchers-group-testing-make-shortage/story?id=70658896).
-* “Drs. Fauci & Birx: Here’s A Way To Contain Covid-19 And Reopen The Economy In As Little As One Month”, Laurence Kotlikoff, *Forbes*, May 3, 2020 [Link](https://www.forbes.com/sites/kotlikoff/2020/05/03/dr-fauci-heres-a-way-to-contain-covid-19-and-reopen-the-economy-in-as-little-as-one-month/?sh=73b664bc1c7a).
+* “Containing COVID-19 at Cornell”, Syl Kacapyr, *Cornell Engineering Spotlights*, 2021 ([Link](https://www.engineering.cornell.edu/spotlights/containing-covid-19-cornell)).
+* “Cornell University gives exclusive look at how it has contained COVID-19” Kaitlyn Folmer, *Good Morning America*, September 22, 2020 ([Link](https://abcnews.go.com/GMA/Wellness/video/cornell-university-exclusive-contained-covid-19-73163035)).
+*	“Why Cornell Will Reopen in the Fall”, Michael I. Kotlikoff and Martha E. Pollack, *Wall Street Journal*, June 30, 2020 ([Link](https://www.wsj.com/articles/why-cornell-will-reopen-in-the-fall-11593535516)).
+* “Group testing could screen entire US, research suggests”, Melanie Lefkowitz, *Cornell Chronicle*, June 11, 2020 ([Link](https://news.cornell.edu/stories/2020/06/group-testing-could-screen-entire-us-research-suggests)).
+* “With all eyes on coronavirus testing, some researchers say ’group testing’ could make up the shortage”, Dr. Mark Abdelmalek, *ABC News*, May 13, 2020 ([Link](https://abcnews.go.com/Health/eyes-coronavirus-testing-researchers-group-testing-make-shortage/story?id=70658896)).
+* “Drs. Fauci & Birx: Here’s A Way To Contain Covid-19 And Reopen The Economy In As Little As One Month”, Laurence Kotlikoff, *Forbes*, May 3, 2020 ([Link](https://www.forbes.com/sites/kotlikoff/2020/05/03/dr-fauci-heres-a-way-to-contain-covid-19-and-reopen-the-economy-in-as-little-as-one-month/?sh=73b664bc1c7a)).
 
 
 ## Fun
