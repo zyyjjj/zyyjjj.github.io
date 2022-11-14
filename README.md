@@ -1,15 +1,16 @@
 ## About
-I am a third year PhD student in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) at Cornell University, where I am fortunate to be advised by [Prof. Peter Frazier](https://people.orie.cornell.edu/pfrazier/) in the Operations Research and Information Engineering department. Previously, I received my B.A. in Mathematics (magna cum laude) and German Studies at Cornell University.
+I am a fourth year PhD student in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) at Cornell University, where I am fortunate to be advised by [Prof. Peter Frazier](https://people.orie.cornell.edu/pfrazier/) in the Operations Research and Information Engineering department. Previously, I received my B.A. in Mathematics (magna cum laude) and German Studies at Cornell University.
 
-I am interested in sequential decision-making problems under uncertainty and in dynamic environments. I work on problems in reinforcement learning and Bayesian optimization. I am also part of the [Cornell COVID-19 modeling team](https://datasciencecenter.cornell.edu/research/covid-19-mathematical-modeling-for-cornells-fall-semester/).
+I work on problems in Bayesian optimization and epidemiological modeling. I am also part of the [Cornell COVID-19 modeling team](https://datasciencecenter.cornell.edu/research/covid-19-mathematical-modeling-for-cornells-fall-semester/).
 
-In my free time, I enjoy cooking, playing the piano, and walking around the gorges of Ithaca.
+In my free time, I enjoy cooking, hiking, and playing the piano.
 
 <a href="files/YujiaZhang_CV_running.pdf" target="_blank">Curriculum Vitae.</a>
 
 
 
 ## Publications
+* Y. Zhang, J. Markovic, J. Lin, Q. Feng, P. I. Frazier, E. Bakshy, “Preference Exploration in Low-rank Subspace for Bayesian Optimization with Many Outcomes”. Submitted.
 * P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, B. Liu, D.B. Shmoys, J. Wan, Y. Zhang, “Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study” [Link](https://www.pnas.org/content/119/2/e2112532119). *Proceedings of the National Academy of Sciences*.
 * J. Wan, Y. Zhang, P.I. Frazier, “Correlation Improves Group Testing” [Link](https://arxiv.org/abs/2111.07517).
 * Y. Lin, Y. Ren, J. Wan, J.M. Cashore, J. Wan, Y. Zhang, P.I. Frazier, E. Zhou, “Group Testing Enables Asymptomatic Screening for COVID-19 Mitigation: Feasibility and Optimal Pool Size Selection with Dilution Effects” [Link](https://arxiv.org/pdf/2008.06642.pdf). Submitted to *Health Care Management Science*.
