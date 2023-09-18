@@ -1,7 +1,7 @@
 ## About
 I am a fifth year PhD student in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) at Cornell University, where I am fortunate to be advised by [Prof. Peter Frazier](https://people.orie.cornell.edu/pfrazier/) in the Operations Research and Information Engineering department. Previously, I received my B.A. in Mathematics (magna cum laude) and German Studies at Cornell University.
 
-I work on problems in Bayesian optimization and epidemiological modeling. I am also part of the [Cornell COVID-19 modeling team](https://datasciencecenter.cornell.edu/research/covid-19-mathematical-modeling-for-cornells-fall-semester/). In summer 2022, I interned with the Adaptive Experimentation team under Meta's [Core Data Science team](https://research.facebook.com/teams/core-data-science/).
+I work on problems in Bayesian optimization and epidemiological modeling. I am also part of the [Cornell COVID-19 modeling team](https://datasciencecenter.cornell.edu/research/covid-19-mathematical-modeling-for-cornells-fall-semester/). In summer 2022, I interned with the Adaptive Experimentation team under Meta's [Core Data Science team](https://research.facebook.com/teams/core-data-science/). In summer 2023, I interned at [Theorem](https://www.theoremlp.com/), a company that develops advanced ML-powered credit underwriting technology. 
 
 In my free time, I enjoy cooking, hiking, and playing the piano.
 
