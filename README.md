@@ -1,5 +1,5 @@
 ## About
-I am a fourth year PhD student in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) at Cornell University, where I am fortunate to be advised by [Prof. Peter Frazier](https://people.orie.cornell.edu/pfrazier/) in the Operations Research and Information Engineering department. Previously, I received my B.A. in Mathematics (magna cum laude) and German Studies at Cornell University.
+I am a fifth year PhD student in the [Center for Applied Mathematics](https://www.cam.cornell.edu/cam) at Cornell University, where I am fortunate to be advised by [Prof. Peter Frazier](https://people.orie.cornell.edu/pfrazier/) in the Operations Research and Information Engineering department. Previously, I received my B.A. in Mathematics (magna cum laude) and German Studies at Cornell University.
 
 I work on problems in Bayesian optimization and epidemiological modeling. I am also part of the [Cornell COVID-19 modeling team](https://datasciencecenter.cornell.edu/research/covid-19-mathematical-modeling-for-cornells-fall-semester/). In summer 2022, I interned with the Adaptive Experimentation team under Meta's [Core Data Science team](https://research.facebook.com/teams/core-data-science/).
 
@@ -10,9 +10,11 @@ In my free time, I enjoy cooking, hiking, and playing the piano.
 
 
 ## Publications
-* Y. Zhang, J. Markovic, J. Lin, Q. Feng, P. I. Frazier, E. Bakshy, “Preference Exploration in Low-rank Subspace for Bayesian Optimization with Many Outcomes”. Submitted.
+* Y. Zhang, J. Markovic, J. Lin, Q. Feng, P. I. Frazier, E. Bakshy, “Latent Space Preference Exploration for Bayesian Optimization with Many Outcomes”. Submitted.
 * P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, B. Liu, D.B. Shmoys, J. Wan, Y. Zhang, “Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study” ([Link](https://www.pnas.org/content/119/2/e2112532119)). *Proceedings of the National Academy of Sciences*.
 * J. Wan, Y. Zhang, P.I. Frazier, “Correlation Improves Group Testing” ([Link](https://arxiv.org/abs/2111.07517)). Under major revision at *Management Science*.
+* B. Liu, Y. Zhang, S. Henderson, D. Shmoys, P. I. Frazier, "Modeling the Risk of In-Person Instruction During the COVID-19 Pandemic". Submitted.
+* V. Gande, A. Michuda, Y. Zhang, P. I. Frazier, "Classroom COVID-19 Transmission: A Retrospective Cohort Study". In preparation.
 * Y. Lin, Y. Ren, J. Wan, J.M. Cashore, J. Wan, Y. Zhang, P.I. Frazier, E. Zhou, “Group Testing Enables Asymptomatic Screening for COVID-19 Mitigation: Feasibility and Optimal Pool Size Selection with Dilution Effects” ([Link](https://arxiv.org/pdf/2008.06642.pdf)).
 * Y. Zhang, K. Song, Y. Sun, S. Tan, M. Udell, “‘Why Should You Trust My Explanation?’ Understanding Uncertainty in LIME Explanations” ([Link](https://arxiv.org/abs/1904.12991)). ICML 2019 Workshop on AI for Social Good. 
 * A. Ruch, Y. Zhang, M. Macy, “Facebook Interests and the Lifestyles that Divide and Bridge Us” ([Link](https://drive.google.com/file/d/1tSqmMV2wQiMn8k65RioXay5LY49fAEJQ/view)).
