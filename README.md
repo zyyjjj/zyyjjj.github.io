@@ -10,15 +10,16 @@ In my free time, I enjoy cooking, hiking, and playing the piano.
 
 
 ## Publications
-* Y. Zhang, J. Markovic, J. Lin, Q. Feng, P. I. Frazier, E. Bakshy, “Latent Space Preference Exploration for Bayesian Optimization with Many Outcomes”. Submitted.
-* P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, B. Liu, D.B. Shmoys, J. Wan, Y. Zhang, “Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study” ([Link](https://www.pnas.org/content/119/2/e2112532119)). *Proceedings of the National Academy of Sciences*.
-* J. Wan, Y. Zhang, P.I. Frazier, “Correlation Improves Group Testing” ([Link](https://arxiv.org/abs/2111.07517)). Under major revision at *Management Science*.
-* B. Liu, Y. Zhang, S. Henderson, D. Shmoys, P. I. Frazier, "Modeling the Risk of In-Person Instruction During the COVID-19 Pandemic". Submitted.
-* V. Gande, A. Michuda, Y. Zhang, P. I. Frazier, "Classroom COVID-19 Transmission: A Retrospective Cohort Study". In preparation.
+* Y. Zhang, J. Markovic, J. Lin, Q. Feng, P. I. Frazier, E. Bakshy, “Latent Space Preference Exploration for Bayesian Optimization with Many Outcomes” ([Code](https://github.com/zyyjjj/low_rank_BOPE)). MIT Conference on Digital Experimentation 2023.
+* P.I. Frazier, J.M. Cashore, N. Duan, S.G. Henderson, A. Janmohamed, B. Liu, D.B. Shmoys, J. Wan, Y. Zhang, “Modeling for COVID-19 College Reopening Decisions: Cornell, A Case Study” ([Paper](https://www.pnas.org/content/119/2/e2112532119), [Code](https://github.com/peter-i-frazier/group-testing)). *Proceedings of the National Academy of Sciences*.
+* J. Wan*, Y. Zhang*, P.I. Frazier, “Correlation Improves Group Testing” ([Paper](https://arxiv.org/abs/2111.07517), [Code](https://github.com/zyyjjj/corr_pooling_seirsplus/tree/master)). Under major revision at *Management Science*.
+* B. Liu*, Y. Zhang*, S. Henderson, D. Shmoys, P. I. Frazier, "Modeling the Risk of In-Person Instruction During the COVID-19 Pandemic" ([Paper](https://arxiv.org/abs/2310.04563), [Code](https://github.com/brianliu12437/ClassroomSimPackage)). Submitted.
+* V. Gande*, Y. Zhang*, A. Michuda, P. I. Frazier, "Classroom COVID-19 Transmission: A Retrospective Cohort Study". In preparation.
 * Y. Lin, Y. Ren, J. Wan, J.M. Cashore, J. Wan, Y. Zhang, P.I. Frazier, E. Zhou, “Group Testing Enables Asymptomatic Screening for COVID-19 Mitigation: Feasibility and Optimal Pool Size Selection with Dilution Effects” ([Link](https://arxiv.org/pdf/2008.06642.pdf)).
 * Y. Zhang, K. Song, Y. Sun, S. Tan, M. Udell, “‘Why Should You Trust My Explanation?’ Understanding Uncertainty in LIME Explanations” ([Link](https://arxiv.org/abs/1904.12991)). ICML 2019 Workshop on AI for Social Good. 
 * A. Ruch, Y. Zhang, M. Macy, “Facebook Interests and the Lifestyles that Divide and Bridge Us” ([Link](https://drive.google.com/file/d/1tSqmMV2wQiMn8k65RioXay5LY49fAEJQ/view)).
 
+(* equal contribution)
 
 ## COVID-19 Modeling Work
 Cornell successfully conducted in-person instruction in the 2020-21 academic year while keeping COVID-19 infections under control. I am part of the modeling team that used mathematical modeling and simulation to support the university’s decision-making.
